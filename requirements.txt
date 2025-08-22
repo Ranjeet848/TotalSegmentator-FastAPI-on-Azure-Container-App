@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 fastapi~=0.116.1
 uvicorn[standard]~=0.35.0
 totalsegmentator
+=======
+fastapi~=0.116.1
+uvicorn[standard]~=0.35.0
+totalsegmentator
+>>>>>>> origin/main
 python-multipart
